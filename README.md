@@ -1,7 +1,11 @@
 ### Creating simple resume website
 
 - Using python django module, managed to create easy and comprehesive resume.
+  - Create template and view
+  - Render the template and adding staticfiles(images/link)
 - Edited it using HTML and CSS 
+  - Styling page using Bootstrap example website
+  
 
 
 
